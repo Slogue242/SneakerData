@@ -8,5 +8,7 @@ The goal is to get sales data from StockX and look for trends in the data.
 Packages used:
 
 Selenium
+
 Sqlite3
+
 BeautifulSoup
